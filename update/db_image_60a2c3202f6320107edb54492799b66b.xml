@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>131</height>
+        <image/>
+        <name>testproperties.png</name>
+        <size_bytes>1234</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 06:27:51</sys_created_on>
+        <sys_id>60a2c3202f6320107edb54492799b66b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>testproperties.png</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_60a2c3202f6320107edb54492799b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 06:27:51</sys_updated_on>
+        <thumbnail/>
+        <width>240</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#f8f8f8</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>9dcb2c139d2b55286cc22b1bb2b3f25eabd6ac9f5cf513a483ef9fddf52d52fc</hash>
+        <image_height>131</image_height>
+        <image_width>240</image_width>
+        <size_bytes>1234</size_bytes>
+        <size_compressed>957</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 06:27:51</sys_created_on>
+        <sys_id>eca2c3202f6320107edb54492799b66e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 06:27:52</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>60a2c3202f6320107edb54492799b66b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="eca2c3202f6320107edb54492799b66e">eca2c3202f6320107edb54492799b66e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 06:27:51</sys_created_on>
+        <sys_id>20a2c3202f6320107edb54492799b66f</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSH4C4mYMJSNo0Mq4CUozFQe5ODOvOybwEcljSHX0dGRg29nP/SWQF8jkLPCKLGRj4DoMw4/H8FSkgNZ4ujiEVcW9vvZ652ELA7WFnd4NM/+JCI5bHgo/UXEQ93PZ9+T7n+32pyJDuzZtz3/+pZnLikAoaEugWy92/1oXVNvP//q2ILH+//K3b38d1r83yX+66/ddQ1+q2rkRe1qf7s+8oWEXcvGumLf7sxu+lumkSa5+HWby92eZos6sytqrv6eGePvlH0ls4f02cUfco8U2ofF3TT51dX5y0/mrKb99hxiHdar7kuJFclP1e7aL8LCN1zvIO/XO/3e+dysz892PSc9n50VZl39ZfPyoZdPWymNzdPXNFv/w0OPjTOWf93/Uyl/03yt+wkj9eI3Rzfs5f5TknPrSf/XJe+/sytfJJX/dd5n6qzf751Zurh7c+t54+P/rulskvZxWWXCt7eljFXLemw/dPyoV/ktWv7j30nxSvGS+5o/s598uKp9a/tYufVqvdEy3565zTtGD7pt4sJ4uI7JgsI+dlabda64/eWlcjUX9/+6+TC55PfdoeWF71T+Xn1E9T3bPXej+1ln8zW/O+8cd1QDl5vV/cjrPnq2/iL3j4fc0OszV989WrvjPfWxF44bLZ69ZPU9vP39oRYn/4586rPrs/9J8Dmjsj8Xlh7kvnnEdAjd/c9/4/pJ7zqvbxY3vR7p8hp/YnGuwzl4g4X58Us2r+wS07I89u6b7eZBYL8smT9TI79/nP37r1YLbj+6fttR/+lMXryf+pObb0l+S582vTbh3NdpzPP9m6Hqi2c0H6N/GE5utNdvOPRLw8V7BhdeHLSzx9szLF/12MNNeTP/bY/ojav5AL/579C94Y45VSqVv/++C6Y0uzjW+smfo5+91te9mSt4dXfTFvvpf78eSC6+Gbb++8HfV6/bmEjeFR5f41ui+0o3/UGb7YsYF7fs4m2Wn/I95+/5dz4fTfTdefX709Xfu//8Nzu5fN/eGenhtu4xMT8V1g9g+nC7PPP1j5k/f1ddvD320/vpe4M7lf+JrnD/+jQX9C/kx9zb955+M/RXNseObVHDu/bcX8h1/urFreG8f9S5Z/Y6c+y9ube5L/7Ev/3Xajo5ZPnr9q59N386bW315Xw3be6gD3ZTnZuVtjfxo4PnXOWVR74YC4oMkSgSGDWmzm/2dkTq2zkMq8aAcshxg8Xf1c1jklNAEAli9m29IEAAA=</data>
+        <length>1264</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="eca2c3202f6320107edb54492799b66e">eca2c3202f6320107edb54492799b66e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 06:27:51</sys_created_on>
+        <sys_id>a0a2c3202f6320107edb54492799b66f</sys_id>
+    </sys_attachment_doc>
+</record_update>
